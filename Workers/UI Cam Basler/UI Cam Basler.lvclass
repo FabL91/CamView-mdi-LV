@@ -166,13 +166,13 @@
 	</Item>
 	<Item Name="UI" Type="Folder">
 		<Item Name="Move Barre Splitter.vi" Type="VI" URL="../Move Barre Splitter.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%[!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!8&amp;66*)%.B&lt;3"#98.M:8)O&lt;(:D&lt;'&amp;T=Q!865EA1W&amp;N)%*B=WRF=C"F&lt;C"T&lt;X*U;75!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Y1(!!(A!!&amp;R6633"$97UA1G&amp;T&lt;'6S,GRW9WRB=X-!&amp;V6*)%.B&lt;3"#98.M:8)A:7YA:7ZU=OFF!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;H!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!8&amp;66*)%.B&lt;3"#98.M:8)O&lt;(:D&lt;'&amp;T=Q!865EA1W&amp;N)%*B=WRF=C"F&lt;C"T&lt;X*U;75!$5!(!!&gt;1&lt;X-A5X6Q!!V!"Q!(5'^T)'FO:A!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!".!"Q!-5'^T)&amp;.V=#"*&lt;GFU!!!Y1(!!(A!!&amp;R6633"$97UA1G&amp;T&lt;'6S,GRW9WRB=X-!&amp;V6*)%.B&lt;3"#98.M:8)A:7YA:7ZU=OFF!'%!]!!-!!-!"!!%!!5!"!!'!!1!"Q!)!!1!#1!+!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!+!!!!!!!!!!I!!!!+!!!!!!!!!!I!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
 		</Item>
 		<Item Name="Get Pane Height.vi" Type="VI" URL="../Get Pane Height.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%[!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!8&amp;66*)%.B&lt;3"#98.M:8)O&lt;(:D&lt;'&amp;T=Q!865EA1W&amp;N)%*B=WRF=C"F&lt;C"T&lt;X*U;75!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Y1(!!(A!!&amp;R6633"$97UA1G&amp;T&lt;'6S,GRW9WRB=X-!&amp;V6*)%.B&lt;3"#98.M:8)A:7YA:7ZU=OFF!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
