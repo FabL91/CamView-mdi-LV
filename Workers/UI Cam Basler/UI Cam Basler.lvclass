@@ -118,6 +118,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">8400896</Property>
 		</Item>
+		<Item Name="c_Set Splitter Bar.vi" Type="VI" URL="../c_Set Splitter Bar.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"B!!!!!Q!%!!!!01$R!!!!!!!!!!).6W^S;W6S=SZM&gt;GRJ9AZ$98.F)%RB9G6M,G.U&lt;!!91$$`````#E.B=W5A4'&amp;C:7Q!!"A!]!!#!!!!!1)!!!E!!!!!!!!*!!!!!!%!!A!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">32</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">8400896</Property>
+		</Item>
 	</Item>
 	<Item Name="subWorkers" Type="Folder">
 		<Item Name="Initialization" Type="Folder">
