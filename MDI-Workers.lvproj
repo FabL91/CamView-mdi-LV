@@ -197,7 +197,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/EXE-CamView-MDI/EXE</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{ACB31509-95A4-40E0-8FB6-9556F4EA9CA9}</Property>
-				<Property Name="Bld_version.build" Type="Int">10</Property>
+				<Property Name="Bld_version.build" Type="Int">11</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">CamView-MDI.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/EXE-CamView-MDI/EXE/CamView-MDI.exe</Property>

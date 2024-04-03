@@ -1,14 +1,14 @@
 ["Config Acquisition"]
 "Camera name" = "cam6"
-Gain = 500.0
-"Shutter(us)" = 1002.0
+Gain = 155.0
+"Shutter(us)" = 2900.0
 ROI = true
-Palette = 0
+Palette = 5
 ModelName = "acA640-120gm"
 
 ["Config Acquisition"."ROI coor"]
-Left = 228
-Top = 200
-Right = 402
-Bottom = 348
+Left = 198
+Top = 131
+Right = 437
+Bottom = 366
 Rotation = 0.0
