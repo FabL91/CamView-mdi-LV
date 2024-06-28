@@ -146,6 +146,16 @@
 				<Item Name="IMAQ Overlay Multiple Lines 2" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Overlay Multiple Lines 2"/>
 				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
+				<Item Name="FWHM and Sigma.vi" Type="VI" URL="/&lt;vilib&gt;/Wakefield Engineering/WE-fit/Public/Signal Operation/FWHM and Sigma.vi"/>
+				<Item Name="Backup Options.ctl" Type="VI" URL="/&lt;vilib&gt;/Wakefield Engineering/WE-fit/_Private/TypDef/Backup Options.ctl"/>
+				<Item Name="Normalize to 1.vi" Type="VI" URL="/&lt;vilib&gt;/Wakefield Engineering/WE-fit/Public/Signal Operation/Normalize to 1.vi"/>
+				<Item Name="Peak Width.vi" Type="VI" URL="/&lt;vilib&gt;/Wakefield Engineering/WE-fit/Public/Signal Operation/Peak Width.vi"/>
+				<Item Name="Peak Thresholds.vi" Type="VI" URL="/&lt;vilib&gt;/Wakefield Engineering/WE-fit/Public/Signal Operation/Peak Thresholds.vi"/>
+				<Item Name="Threshold Detector_WFE.vi" Type="VI" URL="/&lt;vilib&gt;/Wakefield Engineering/WE-fit/Public/Signal Operation/Threshold Detector_WFE.vi"/>
+				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
+				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
+				<Item Name="dt.vi" Type="VI" URL="/&lt;vilib&gt;/Wakefield Engineering/WE-fit/_Private/Initial Guess support/dt.vi"/>
+				<Item Name="Merge Error Codes.vi" Type="VI" URL="/&lt;vilib&gt;/Wakefield Engineering/WE-fit/_Private/SubVIs/Merge Error Codes.vi"/>
 			</Item>
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -168,6 +178,7 @@
 			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Spécifications de construction" Type="Build">
 			<Item Name="CamView-MDI" Type="EXE">
@@ -186,7 +197,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/EXE-CamView-MDI/EXE</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{ACB31509-95A4-40E0-8FB6-9556F4EA9CA9}</Property>
-				<Property Name="Bld_version.build" Type="Int">15</Property>
+				<Property Name="Bld_version.build" Type="Int">17</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">CamView-MDI.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/EXE-CamView-MDI/EXE/CamView-MDI.exe</Property>
@@ -198,7 +209,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/Poste de travail/lecteur-video.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{7CD47753-7482-48C7-96C6-C9552F6CD26E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{7E734EE7-81B9-43A6-B32C-0378DCB65E49}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/Poste de travail/Container.lvclass/Main.vi</Property>
